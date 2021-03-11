@@ -2,7 +2,7 @@
 
 Hi, I'm Bhimraj Yadav, a Full Stack Software Developer from Kathmandu, Nepal who loves building different products related to education, e-commerce, travelling, etc. I am a Computer Engineering Student at Kathford International College of Engineering and Management.
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/BhimrazY)](https://twitter.com/BhimrazY)
+[![Twitter Badge](https://img.shields.io/twitter/follow/bhimrazyadav)](https://twitter.com/bhimrazyadav)
 [![Instagram Badge](https://img.shields.io/badge/-@bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav)
 [![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
 [![Github Badge](https://img.shields.io/github/followers/bhimrazy?style=social)](https://github.com/bhimrazy)
