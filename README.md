@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Hi, I'm Bhimraj Yadav, a Full Stack Software Developer from Kathmandu, Nepal who loves building different products related to education, e-commerce, travelling, etc. I am a Computer Engineering Student at Kathford International College of Engineering and Management.
+Hi, I'm Bhimraj Yadav, a Computer Engineering Student at Kathford International College of Engineering and Management.
+
+I like to explore Machine Learning, Data Science and Computer Vision and 
+and apply these skills to develop some cool projects.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/bhimrazyadav)](https://twitter.com/bhimrazyadav)
 [![Instagram Badge](https://img.shields.io/badge/-@bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav)
@@ -42,18 +45,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimrazy&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=bhimrazy&color=green)
-
-### Languages and Tools
-
-<img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="Cplusplus" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<br />
