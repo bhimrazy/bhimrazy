@@ -3,7 +3,7 @@
 Hi, I'm Bhimraj Yadav, a Computer Engineering Student at Kathford International College of Engineering and Management.
 
 I like to explore Machine Learning, Data Science and Computer Vision and 
-and apply these skills to develop some cool projects.
+apply these skills to develop some cool projects.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/bhimrazyadav)](https://twitter.com/bhimrazyadav)
 [![Instagram Badge](https://img.shields.io/badge/-@bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav)
