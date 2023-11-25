@@ -46,5 +46,5 @@
 
 ### 📺 YouTube Stats
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxjNYtMyIbM-xRYxn4Vyywg?label=Subscribe&style=social)](https://www.youtube.com/@bhimrajyadav)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxjNYtMyIbM-xRYxn4Vyywg?label=Views&style=social)](https://www.youtube.com/@bhimrajyadav)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxjNYtMyIbM-xRYxn4Vyywg?label=Subscribers&style=social)](https://www.youtube.com/@bhimrajyadav?sub_confirmation=1)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxjNYtMyIbM-xRYxn4Vyywg?label=Views&style=social)](https://www.youtube.com/@bhimrajyadav?sub_confirmation=1)
