@@ -1,11 +1,11 @@
 ### 👋 Hi there, I'm Bhimraj Yadav!
 
-💻 Software Engineer | 🧠 AI Engineer | 🌐 Research Enthusiast in Computer Vision & Generative AI 
+💻 Software Engineer | 🧠 AI Engineer | 🌍 Opensource Contributor | 🌐 Research Enthusiast in Computer Vision & Generative AI
 
 ### 🚀 About Me
 
 - 👨🏻‍💻 Software Engineer at [Fetchly](https://www.fetch.ly).
-- 👨‍💼 Technical Coordinator at BPEF.
+- 👨‍💼 Studio Publisher at [Lighning AI](https://lightning.ai/bhimrajyadav).
 - 💡 Passionate about leveraging ML and AI to solve real-world problems.
 - 🔭 Currently learning and experimenting with deep learning frameworks.
 - 🌱 Always excited to collaborate on projects involving AI, healthcare, and innovative technologies.
