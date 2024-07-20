@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 👨🏻‍💻 Software Engineer at [Fetchly](https://www.fetch.ly).
-- 👨‍💼 Studio Publisher at [Lighning AI](https://lightning.ai/bhimrajyadav).
+- 👨‍💼 Studio Publisher at [Lightning AI](https://lightning.ai/bhimrajyadav).
 - 💡 Passionate about leveraging ML and AI to solve real-world problems.
 - 🔭 Currently learning and experimenting with deep learning frameworks.
 - 🌱 Always excited to collaborate on projects involving AI, healthcare, and innovative technologies.
