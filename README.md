@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/-bhimrazy-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/bhimrazy)](https://github.com/bhimrazy)
 [![Facebook](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bhimrazy)](https://www.facebook.com/bhimrazy)
 
-📧 Email: bhimrajyadav977@gmail.com
+📧 Email: contact@bhimraj.com.np
 
 🌐 Website: [bhimraj.com.np](https://bhimraj.com.np/)
 
