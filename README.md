@@ -13,7 +13,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
-[![Twitter](https://img.shields.io/badge/-bhimrazyadav-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bhimrazyadav)](https://twitter.com/bhimrazyadav)
+[![Twitter](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bhimrazy)](https://twitter.com/bhimrazy)
 [![Instagram](https://img.shields.io/badge/-bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav/)
 [![GitHub](https://img.shields.io/badge/-bhimrazy-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/bhimrazy)](https://github.com/bhimrazy)
 [![Facebook](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bhimrazy)](https://www.facebook.com/bhimrazy)
