@@ -2,7 +2,7 @@
 
 **Software Engineer** · **AI/ML Engineer** · **Open Source Contributor**
 
-Building production systems at [Fetchly Labs](https://www.fetch.ly) · 200+ PRs to [Lightning AI](https://lightning.ai/bhimrajyadav) ([PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitData](https://github.com/Lightning-AI/litData), [LitServe](https://github.com/Lightning-AI/litserve), [LitGPT](https://github.com/Lightning-AI/litgpt)) · IEEE published researcher in Computer Vision
+Building production systems at [Fetchly Labs](https://www.fetch.ly) · 200+ PRs to [Lightning AI](https://lightning.ai/bhimrajyadav) ([PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitData](https://github.com/Lightning-AI/litData), [LitServe](https://github.com/Lightning-AI/litserve), [LitGPT](https://github.com/Lightning-AI/litgpt), etc)
 
 ---
 
@@ -59,5 +59,9 @@ Building production systems at [Fetchly Labs](https://www.fetch.ly) · 200+ PRs 
 [![Website](https://img.shields.io/badge/Website-bhimraj.com.np-000000)](https://bhimraj.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhimrazy-0077B5?logo=linkedin)](https://linkedin.com/in/bhimrazy)
 [![Twitter](https://img.shields.io/badge/Twitter-bhimrazy-1DA1F2?logo=twitter)](https://twitter.com/bhimrazy)
+[![Lightning AI](https://img.shields.io/badge/Lightning%20AI-792EE5?logo=pytorch-lightning)](https://lightning.ai/bhimrajyadav)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=iwH0v9IAAAAJ&hl=en)
+[![Instagram](https://img.shields.io/badge/Instagram-bhimrazyadav-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bhimrazyadav)
+[![Facebook](https://img.shields.io/badge/Facebook-bhimrazy-1877F2?logo=facebook&logoColor=white)](https://facebook.com/bhimrazy)
 
 contact@bhimraj.com.np
