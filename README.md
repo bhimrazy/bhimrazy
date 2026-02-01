@@ -2,7 +2,7 @@
 
 **Software Engineer** · **AI/ML Engineer** · **Open Source Contributor**
 
-Building production systems at [Fetchly Labs](https://www.fetch.ly) · 200+ PRs to [Lightning AI](https://lightning.ai/bhimrajyadav) ([PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitData](https://github.com/Lightning-AI/litData), [LitServe](https://github.com/Lightning-AI/litserve), [LitGPT](https://github.com/Lightning-AI/litgpt), etc) · Exploring LLMs, VLMs, and AI agents
+Software Engineer at [Fetchly Labs](https://www.fetch.ly) · Tier 2 Open Source Contributor at [Lightning AI](https://lightning.ai/bhimrajyadav) (200+ PRs to [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitData](https://github.com/Lightning-AI/litData), [LitServe](https://github.com/Lightning-AI/litserve), [LitGPT](https://github.com/Lightning-AI/litgpt), etc) · Exploring LLMs, VLMs, and AI agents
 
 ---
 
