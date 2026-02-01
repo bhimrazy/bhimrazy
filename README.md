@@ -1,50 +1,56 @@
-### 👋 Hi there, I'm Bhimraj Yadav!
+# Bhimraj Yadav
 
-💻 Software Engineer | 🧠 AI Engineer | 🌍 Opensource Contributor | 🌐 Research Enthusiast in Computer Vision & Generative AI
+**Software Engineer** · **AI/ML Engineer** · **Open Source Contributor**
 
-### 🚀 About Me
+Building production systems at [Fetchly Labs](https://www.fetch.ly) · 200+ PRs to [Lightning AI](https://lightning.ai/bhimrajyadav) ([PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitData](https://github.com/Lightning-AI/litData), [LitServe](https://github.com/Lightning-AI/litserve), [LitGPT](https://github.com/Lightning-AI/litgpt)) · IEEE published researcher in Computer Vision
 
-- 👨🏻‍💻 Software Engineer at [Fetchly](https://www.fetch.ly).
-- 👨‍💼 Studio Publisher & Opensource Contributor at [Lightning AI](https://lightning.ai/bhimrajyadav).
-- 💡 Passionate about leveraging ML and AI to solve real-world problems.
-- 🔭 Currently learning and experimenting with deep learning frameworks.
-- 🌱 Always excited to collaborate on projects involving AI, healthcare, and innovative technologies.
+---
 
-### 🌐 Connect with Me
+**Languages**
 
-[![LinkedIn](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
-[![Twitter](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bhimrazy)](https://twitter.com/bhimrazy)
-[![Instagram](https://img.shields.io/badge/-bhimrazyadav-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhimrazyadav/)](https://www.instagram.com/bhimrazyadav/)
-[![GitHub](https://img.shields.io/badge/-bhimrazy-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/bhimrazy)](https://github.com/bhimrazy)
-[![Facebook](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bhimrazy)](https://www.facebook.com/bhimrazy)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go%20(learning)-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust%20(learning)-000000?logo=rust&logoColor=white)
 
-📧 Email: contact@bhimraj.com.np
+**Frameworks & Libraries**
 
-🌐 Website: [bhimraj.com.np](https://bhimraj.com.np/)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
+**Cloud & Tools**
 
-### 📊 GitHub Stats
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Lightning AI](https://img.shields.io/badge/Lightning%20AI-792EE5?logo=pytorch-lightning&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhimrazy&count_private=true&show_icons=true&include_all_commits=true)
+---
 
-### 🛠️ Technologies & Tools
+**Stats**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/-Lightning-792EE5?style=flat-square&logo=PyTorch&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React/Next.js](https://img.shields.io/badge/-React/Next.js-00599C?style=flat-square&logo=React)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-4B32C3?style=flat-square&logo=CircleCI)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub Stats](./profile/stats.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhimrazy&color=blueviolet)
 
-### 📺 YouTube Stats
+---
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxjNYtMyIbM-xRYxn4Vyywg?label=Subscribers&style=social)](https://www.youtube.com/@bhimrajyadav?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxjNYtMyIbM-xRYxn4Vyywg?label=Views&style=social)](https://www.youtube.com/@bhimrajyadav?sub_confirmation=1)
+**Content**
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxjNYtMyIbM-xRYxn4Vyywg?label=YouTube&style=social)](https://www.youtube.com/@bhimrajyadav)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCxjNYtMyIbM-xRYxn4Vyywg?label=Views&style=social)](https://www.youtube.com/@bhimrajyadav)
+
+---
+
+**Connect**
+
+[![Website](https://img.shields.io/badge/Website-bhimraj.com.np-000000)](https://bhimraj.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhimrazy-0077B5?logo=linkedin)](https://linkedin.com/in/bhimrazy)
+[![Twitter](https://img.shields.io/badge/Twitter-bhimrazy-1DA1F2?logo=twitter)](https://twitter.com/bhimrazy)
+
+contact@bhimraj.com.np
