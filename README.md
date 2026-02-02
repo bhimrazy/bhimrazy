@@ -34,7 +34,7 @@
 ### 👨‍💻 About
 
 - 🏢 **Software Engineer** at [Fetchly Labs](https://www.fetch.ly)
-- ⚡ **Tier 2 Open Source Contributor** at [Lightning AI](https://lightning.ai) — 200+ PRs to [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitServe](https://github.com/Lightning-AI/litserve), [LitData](https://github.com/Lightning-AI/litdata), [LitGPT](https://github.com/Lightning-AI/litgpt), and more
+- ⚡ **Tier 2 Open Source Contributor** at [Lightning AI](https://lightning.ai) — 200+ contributions across [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning), [LitServe](https://github.com/Lightning-AI/litserve), [LitData](https://github.com/Lightning-AI/litdata), [LitGPT](https://github.com/Lightning-AI/litgpt), and more
 
 <img src="https://komarev.com/ghpvc/?username=bhimrazy&style=flat-square&color=blueviolet" alt="Profile Views" />
 
