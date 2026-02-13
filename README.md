@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building production systems & AI tools. Currently exploring LLMs, VLMs, and AI agents.
+  Building production systems & AI tools. Currently exploring LLMs, VLMs, AI inference and AI agents.
 </p>
 
 <p align="center">
