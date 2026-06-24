@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bhimraj Yadav's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 709, Total Commits  (last year) : 412, Total PRs: 479, Total Issues: 75, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 711, Total Commits  (last year) : 421, Total PRs: 484, Total Issues: 75, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.761225833280015;
+        stroke-dashoffset: 22.411832979539046;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >709</text>
+      >711</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >412</text>
+      >421</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >479</text>
+      >484</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
